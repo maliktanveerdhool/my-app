@@ -23,12 +23,12 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Hadi &rarr;</h2>
+            <h2>Hadi Dhool&rarr;</h2>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Hani &rarr;</h2>
+            <h2>Hani Dhool &rarr;</h2>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
@@ -36,7 +36,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h2>Haris &rarr;</h2>
+            <h2>Haris Dhool &rarr;</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
@@ -46,7 +46,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className={styles.card}
           >
-            <h2>Malik &rarr;</h2>
+            <h2>Malik Dhool &rarr;</h2>
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
